@@ -8,3 +8,4 @@ This Power BI project provides a comprehensive and interactive dashboard to anal
 The report is highly interactive, featuring filters, bookmarks, and custom tooltips to enhance the user experience.
 
 Main Dashboard
+<img width="1161" height="644" alt="Screenshot 2025-10-24 205325" src="https://github.com/user-attachments/assets/63c347d1-0359-4d48-99f7-1ff9ea4a211f" />
