@@ -12,7 +12,7 @@ The report is composed of a main dashboard for a quick overview and a detailed s
 The main dashboard highlights four critical business metrics at the top:
 * **Total Amount: 438k**
 * **Total Profit: 37k**
-* **Total Quantity: 5615**
+* **Total Quantity sold: 5615**
 * **Total Average Order Value: 121k**
 
 
